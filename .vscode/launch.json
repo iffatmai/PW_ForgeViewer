@@ -12,7 +12,7 @@
             "env": {
                 "FORGE_CLIENT_ID": "6bnMINEuaGkX3xqObvIfC7GClVp4y87p",
                 "FORGE_CLIENT_SECRET": "Aru752pOTzoGOrGx",
-                "FORGE_CALLBACK_URL": "http://localhost:3000/api/forge/callack/oauth"
+                "FORGE_CALLBACK_URL": "https://iffatdemo3.herokuapp.com/api/forge/callback/oauth"
             }
         }
     ]
